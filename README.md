@@ -5,7 +5,7 @@ Welcome to the TicketBooking Backend project! This repository contains the backe
 ## 🚀 Features
 
 - User authentication and authorization
-- Ticket booking and cancellation
+- Ticket booking and Validation
 - Event management
 - Admin dashboard
 
