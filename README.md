@@ -75,5 +75,5 @@ Welcome to the TicketBooking Backend project! This repository contains the backe
 
 ## ⚙️ Configuration
 
-- **Database Configuration**: Ensure PostgrsQL is installed and running. Update the `application.properties` file with your database credentials.
+- **Database Configuration**: Ensure PostgresQL is installed and running. Update the `application.properties` file with your database credentials.
 - **JWT Configuration**: Set the `jwt.secret` in the `application.properties` file for token generation and validation.
